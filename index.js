@@ -23,6 +23,11 @@ const questions = [
   },
   {
     type: "input",
+    message: "Enter usage information : ",
+    name: "Usage",
+  },
+  {
+    type: "input",
     message: "Enter contribution guidelines : ",
     name: "Guidelines",
   },
