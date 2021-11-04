@@ -18,3 +18,8 @@ The following image shows a mock-up of the generated README’s appearance and f
 
 ![Generated README Preview](./images/README-Preview.png)
 ![Generated README.md](./images/README-md.png)
+
+## Links
+
+- [Deployed Link](https://hyanez.github.io/README-GENERATOR/)
+- [Github Link](https://github.com/hyanez/README-GENERATOR)
