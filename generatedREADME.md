@@ -1,7 +1,7 @@
-# README TITLE
+# Project Title
   
   ## Description
-  description here
+  Description goes here
 
   ## Table of Contents
   * [Installation](#Installation)
@@ -12,23 +12,23 @@
   * [Questions](#Questions)
 
   ## Installation
-  instructions here
+  Installation instructions here
 
   ## Usage
-  usage here
+  Usage information here
 
   ## License
 
-  <img src = "https://img.shields.io/badge/license-Apache-blue">
+  <img src = "https://img.shields.io/badge/license-BSD-green">
 
-  https://www.apache.org/licenses/LICENSE-2.0
+  https://shields.io/badge/license-BSD-green
   
 
   ## Contributing
-  contribution here
+  Contribution guidelines here
 
   ## Tests
-  tests here
+  Test instructions here
 
   ## Questions
   If you have any questions, visit my **[Github Page](https://www.github.com/hyanez)** or contact me at **hugoy4@gmail.com**.
